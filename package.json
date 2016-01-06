@@ -1,7 +1,10 @@
 {
   "name": "pushpin-white",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reporter for pushpin TAP harness",
+  "engines" : {
+    "node" : ">=4"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
