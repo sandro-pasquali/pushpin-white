@@ -1,6 +1,6 @@
 {
   "name": "pushpin-white",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Reporter for pushpin TAP harness",
   "engines" : {
     "node" : ">=4"
